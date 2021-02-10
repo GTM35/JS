@@ -1,4 +1,4 @@
-console.log(`Trabalhando com listas`);
+console.log(`Trabalhando com condições`);
 
 const lista = new Array(`Salvador`,`São Paulo`,`Rio de Janeiro`);
 const idadeComprador = 18;
